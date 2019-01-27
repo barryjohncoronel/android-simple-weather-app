@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="sunrise">Sunrise:</string>
+    <string name="sunset">Sunset:</string>
+    <string name="temperature_high">Temperature High:</string>
+    <string name="temperature_low">Temperature Low:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="wind_speed">Wind Speed:</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="enable_location">Enable your location permission in app settings to proceed.</string>
+
+    <string name="sunrise_value">%1$s AM</string>
+    <string name="sunset_value">%1s PM</string>
+    <string name="temp_value">%1$.2f °C</string>
+    <string name="pressure_value">%1$.2f hPa</string>
+    <string name="wind_speed_value">%1$.2f kph</string>
+</resources>
